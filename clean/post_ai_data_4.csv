@@ -1,0 +1,332 @@
+Name,Artist,Popularity,Valence,Energy,Tempo,Acousticness,Danceability,Duration,Instrumentalness,Liveness,Loudness,Speechiness,Mode,Album,year,RiaaStatus,Label,period
+...ready for it?,taylor swift,70.0,0.417,0.764,160.015,0.05269999999999999,0.613,208187.0,0.0,0.197,-6.509,0.136,1,reputation,2017.0,,,post_ai
+1942 flows,meek mill,51.0,0.266,0.628,121.307,0.0515,0.63,282667.0,0.0,0.091,-4.016,0.327,1,Wins & Losses (Deluxe),2017.0,Gold,Atlantic Records,post_ai
+24k magic,bruno mars,79.0,0.632,0.803,106.96999999999998,0.034,0.818,225983.0,0.0,0.153,-4.282,0.0797,1,24K Magic,2016.0,5x Multi-Platinum,Atlantic Records,post_ai
+4 am,2 chainz,71.0,0.227,0.5,75.012,0.118,0.7959999999999999,255560.0,0.0,0.155,-7.21,0.425,1,Pretty Girls Like Trap Music,2017.0,1x Platinum,Def Jam,post_ai
+4 your eyez only,j. cole,66.0,0.494,0.481,78.628,0.378,0.704,530253.0,7.09e-05,0.0874,-10.493,0.363,0,4 Your Eyez Only,2016.0,,,post_ai
+4422,drake,64.0,0.221,0.247,111.974,0.499,0.621,186293.0,0.0239,0.113,-12.291,0.0393,0,More Life,2017.0,,,post_ai
+8 out of 10,drake,66.0,0.311,0.69,170.54,0.161,0.529,195720.0,0.0,0.498,-7.87,0.7399999999999999,1,Scorpion,2018.0,,,post_ai
+9,drake,47.0,0.0388,0.71,99.994,0.000907,0.699,255787.0,0.0007830000000000001,0.23700000000000002,-7.381,0.0437,1,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+a guy with a girl,blake shelton,66.0,0.777,0.893,163.948,0.0158,0.552,189467.0,0.0,0.105,-4.593,0.0383,1,If I'm Honest,2016.0,,,post_ai
+a lie,french montana,58.0,0.524,0.792,121.189,0.0235,0.516,226790.0,0.0,0.404,-5.38,0.216,0,Jungle Rules,2017.0,,,post_ai
+africa,weezer,67.0,0.6,0.784,92.147,0.205,0.534,238627.0,0.00579,0.106,-3.5899999999999994,0.0339,1,Weezer (Teal Album),2018.0,Gold,Atlantic Records,post_ai
+all night,beyonce,69.0,0.626,0.573,136.304,0.392,0.574,322000.0,2.16e-05,0.0933,-7.079,0.085,1,Lemonade,2016.0,,,post_ai
+all the pretty girls,kenny chesney,70.0,0.719,0.848,120.996,0.00916,0.612,212893.0,0.0,0.366,-3.736,0.0368,1,Cosmic Hallelujah,2016.0,Gold,Blue Chair Records / Columbia Nashville,post_ai
+all you wanted,michelle branch,46.0,0.652,0.7199999999999999,96.103,0.004660000000000001,0.49900000000000005,217680.0,0.00303,0.122,-9.101,0.0286,1,The Spirit Room [Deluxe Edition],2018.0,,,post_ai
+almost slipped,meek mill,58.0,0.46,0.651,164.213,0.246,0.49,246793.0,0.0,0.233,-6.24,0.251,1,Championships,2018.0,,,post_ai
+american country love song,jake owen,64.0,0.329,0.891,104.031,0.0457,0.529,199747.0,0.0,0.0942,-4.36,0.043,1,American Love,2016.0,Gold,Rca Nashville,post_ai
+atm,j. cole,71.0,0.345,0.497,81.651,0.11500000000000002,0.719,216727.0,0.0,0.0898,-7.661,0.681,1,KOD,2018.0,,,post_ai
+auto pilot,migos,54.0,0.254,0.716,129.987,0.0716,0.924,287992.0,0.0,0.201,-5.801,0.165,1,Culture II,2018.0,,,post_ai
+babe,sugarland,66.0,0.664,0.777,171.72,0.0187,0.535,215107.0,1.62e-06,0.136,-3.292,0.207,1,Bigger,2018.0,,,post_ai
+back to sleep,chris brown,66.0,0.721,0.646,92.981,0.0424,0.647,201253.0,0.0,0.0888,-5.483,0.24299999999999997,0,Royalty (Deluxe Version),2016.0,1x Platinum,Rca,post_ai
+bar at the end of the world,kenny chesney,55.0,0.687,0.8,100.035,0.00541,0.529,207307.0,0.0,0.104,-3.726,0.031,1,Cosmic Hallelujah,2017.0,,,post_ai
+barbie dreams,nicki minaj,56.0,0.694,0.7860000000000001,87.99,0.312,0.848,279867.0,0.0,0.193,-4.133,0.337,0,Queen (Deluxe),2018.0,Gold,Young Money / Cash Money / Republic Records,post_ai
+barcelona,ed sheeran,72.0,0.682,0.76,99.975,0.448,0.747,191147.0,0.0,0.153,-4.294,0.187,1,÷ (Deluxe),2017.0,Gold,Atlantic Records,post_ai
+beautiful trauma,p!nk,70.0,0.234,0.619,95.977,0.0868,0.412,250053.0,2.55e-06,0.4,-6.39,0.0725,1,Beautiful Trauma,2017.0,,,post_ai
+better man,little big town,65.0,0.501,0.836,143.888,0.11200000000000002,0.514,263120.0,0.0,0.0878,-3.6629999999999994,0.0381,1,The Breaker,2016.0,1x Platinum,Capitol Records Nashville,post_ai
+black,dierks bentley,64.0,0.56,0.656,120.03699999999999,0.27,0.663,211160.0,0.000279,0.11700000000000002,-6.548,0.0413,1,Black,2016.0,Gold,Capitol Records Nashville,post_ai
+black panther,kendrick lamar,60.0,0.48,0.582,90.035,0.625,0.618,130613.0,3.84e-06,0.265,-9.454,0.297,1,Black Panther The Album Music From And Inspired By,2018.0,,,post_ai
+blem,drake,67.0,0.392,0.548,98.017,0.0521,0.724,216558.0,7.4e-06,0.104,-8.062,0.0497,0,More Life,2017.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+blessed up,meek mill,49.0,0.415,0.59,92.275,0.0609,0.647,201255.0,0.0,0.381,-9.931,0.247,1,DC4,2016.0,,,post_ai
+blue ain't your color,keith urban,55.0,0.479,0.4159999999999999,82.45,0.617,0.69,230600.0,1.37e-06,0.102,-7.864999999999999,0.0335,1,Ripcord,2016.0,4x Multi-Platinum,Capitol Records Nashville,post_ai
+blue notes,meek mill,65.0,0.184,0.431,141.392,0.665,0.515,227809.0,0.0,0.147,-8.251,0.257,1,DC4,2016.0,,,post_ai
+blue on black,five finger death punch,51.5,0.479,0.843,156.073,0.00104,0.509,274615.0,1.21e-05,0.0882,-5.628,0.0275,1,And Justice for None (Deluxe),2019.0,,,post_ai
+blue tint,drake,69.0,0.123,0.37200000000000005,133.998,0.013,0.888,162800.0,0.0,0.18400000000000002,-10.254,0.35799999999999993,0,Scorpion,2018.0,,,post_ai
+bored to death,blink,30.0,0.638,0.966,159.948,0.00575,0.502,235613.0,1.56e-06,0.117,-3.876,0.0946,1,California (Deluxe Edition),2016.0,,,post_ai
+bounce back,big sean,77.0,0.26,0.567,81.477,0.105,0.7700000000000001,222360.0,0.0,0.125,-5.698,0.175,1,I Decided.,2016.0,4x Multi-Platinum,Def Jam,post_ai
+boy,lee brice,68.0,0.383,0.408,78.942,0.644,0.498,198973.0,0.0,0.0993,-7.946,0.0331,1,Lee Brice,2017.0,Gold,Curb Records,post_ai
+brackets,j. cole,64.0,0.658,0.567,84.039,0.19,0.675,315771.0,1.77e-06,0.175,-9.147,0.263,0,KOD,2018.0,,,post_ai
+burning man,dierks bentley,71.0,0.49200000000000005,0.807,119.073,0.00403,0.609,238493.0,5.42e-06,0.0926,-7.221,0.0972,1,The Mountain,2018.0,,,post_ai
+call casting,migos,56.0,0.496,0.727,130.014,0.0962,0.852,232705.0,0.0,0.154,-4.851,0.267,1,Culture,2017.0,,,post_ai
+call it what you want,taylor swift,65.0,0.252,0.504,163.954,0.186,0.598,203507.0,0.000221,0.34,-9.874,0.0731,1,reputation,2017.0,Gold,Big Machine Records,post_ai
+came here to forget,blake shelton,61.0,0.481,0.667,130.023,0.356,0.613,220413.0,1.29e-05,0.111,-6.874,0.029,0,If I'm Honest,2016.0,Gold,Warner Bros,post_ai
+can't be broken,lil wayne,66.0,0.154,0.577,99.288,0.121,0.578,193243.0,0.0,0.086,-5.997,0.202,0,Tha Carter V,2018.0,,,post_ai
+can't have everything,drake,62.0,0.438,0.568,82.495,0.0111,0.636,228438.0,0.0,0.117,-8.441,0.419,1,More Life,2017.0,,,post_ai
+castaway,zac brown band,62.0,0.93,0.78,101.066,0.161,0.634,188053.0,0.0,0.112,-4.928,0.0477,1,JEKYLL + HYDE,2016.0,,,post_ai
+castle on the hill,ed sheeran,80.0,0.471,0.834,135.007,0.0232,0.461,261154.0,1.14e-05,0.14,-4.868,0.0989,1,÷ (Deluxe),2017.0,3x Multi-Platinum,Atlantic Records,post_ai
+cc,migos,53.0,0.817,0.723,134.011,0.23,0.85,259340.0,0.0,0.0876,-6.622,0.205,0,Culture II,2018.0,,,post_ai
+chained to the rhythm,katy perry,40.0,0.474,0.8,189.89,0.0814,0.446,237733.0,0.0,0.199,-5.404,0.174,1,Witness (Deluxe),2017.0,1x Platinum,Capitol Records,post_ai
+championships,meek mill,59.0,0.319,0.803,167.329,0.0786,0.488,261743.0,0.0,0.215,-4.165,0.205,0,Championships,2018.0,,,post_ai
+change,j. cole,66.0,0.242,0.519,107.401,0.642,0.58,331480.0,0.00116,0.0936,-10.653,0.251,0,4 Your Eyez Only,2016.0,,,post_ai
+cheap thrills,sia,55.5,0.7434999999999999,0.7430000000000001,89.9625,0.05355,0.61,218080.0,0.00071627,0.10785,-5.266,0.153,0,This Is Acting (Deluxe Edition),2016.0,4x Multi-Platinum,Rca,post_ai
+church bells,carrie underwood,25.0,0.549,0.844,87.054,0.232,0.573,194507.0,0.0,0.062,-1.772,0.0648,0,Storyteller,2016.0,Gold,19 Recordings Limited / Arista Nashville,post_ai
+cold,maroon 5,3.0,0.43200000000000005,0.712,100.054,0.119,0.697,234307.0,0.0,0.0468,-6.305,0.10900000000000001,0,Red Pill Blues + (Deluxe),2017.0,1x Platinum,222 Records / Interscope,post_ai
+come back to earth,mac miller,73.0,0.119,0.238,83.507,0.89,0.272,161840.0,0.00925,0.275,-12.148,0.0349,0,Swimming,2018.0,,,post_ai
+coming home,keith urban,61.0,0.57,0.703,88.502,0.216,0.383,213939.0,5.47e-06,0.131,-6.988,0.228,1,Graffiti U,2018.0,,,post_ai
+company,justin bieber,72.0,0.42,0.8000000000000002,94.985,0.147,0.617,208120.0,0.0,0.0852,-5.024,0.0654,0,Purpose (Deluxe),2016.0,1x Platinum,Def Jam,post_ai
+controlla,drake,65.0,0.321,0.477,93.44,0.0962,0.747,245227.0,0.0,0.114,-11.062,0.276,0,Views,2016.0,3x Multi-Platinum,Young Money / Cash Money / Republic Records,post_ai
+cool,jonas brothers,75.0,0.62,0.598,78.969,0.00873,0.6830000000000002,167107.0,0.0,0.156,-5.486999999999999,0.0423,1,Happiness Begins,2019.0,,,post_ai
+cranes in the sky,solange,66.0,0.465,0.615,96.988,0.408,0.719,250973.0,0.000147,0.235,-5.972,0.045,1,A Seat at the Table,2016.0,Gold,Columbia,post_ai
+cry pretty,carrie underwood,61.0,0.21,0.742,139.953,0.00517,0.37399999999999994,247320.0,0.0,0.11,-3.36,0.043199999999999995,1,Cry Pretty,2018.0,Gold,Captiol Nashville,post_ai
+daddy lessons,beyonce,71.0,0.598,0.503,90.886,0.273,0.643,287987.0,0.0,0.349,-8.37,0.216,1,Lemonade,2016.0,,,post_ai
+dark necessities,red hot chili peppers,74.0,0.197,0.742,91.959,0.0722,0.7,302000.0,0.0199,0.11,-6.777,0.0716,0,The Getaway,2016.0,,,post_ai
+dedicate,lil wayne,65.0,0.723,0.662,117.975,0.033,0.879,189909.0,0.0,0.716,-6.162,0.309,1,Tha Carter V,2018.0,,,post_ai
+deja vu,j. cole,71.0,0.187,0.409,174.324,0.361,0.653,264747.0,0.00012000000000000002,0.189,-11.446,0.421,1,4 Your Eyez Only,2016.0,,,post_ai
+delicate,taylor swift,76.0,0.0499,0.404,95.045,0.216,0.75,232253.0,0.000357,0.0911,-10.178,0.0682,0,reputation,2017.0,1x Platinum,"Big Machine Records, Inc.",post_ai
+demon,lil wayne,58.0,0.345,0.615,140.04,0.273,0.754,214314.0,0.0,0.13,-5.346,0.171,0,Tha Carter V,2018.0,,,post_ai
+different for girls,dierks bentley,64.0,0.371,0.785,91.975,0.445,0.661,180360.0,0.000266,0.0854,-5.623,0.0369,1,Black,2016.0,1x Platinum,Capitol Records Nashville,post_ai
+digits,young thug,69.0,0.294,0.632,131.932,0.0325,0.769,176387.0,0.0,0.116,-4.228,0.0537,0,Slime Season 3,2016.0,,,post_ai
+dirty laundry,carrie underwood,25.0,0.5,0.874,200.126,0.0594,0.457,205093.0,1.18e-05,0.11,-4.126,0.117,0,Storyteller,2016.0,,,post_ai
+dive,ed sheeran,78.0,0.526,0.386,134.943,0.355,0.761,238440.0,0.0,0.0953,-6.158,0.0399,1,÷ (Deluxe),2017.0,1x Platinum,Atlantic Records,post_ai
+dna.,kendrick lamar,80.0,0.422,0.523,139.913,0.00454,0.638,185947.0,0.0,0.0842,-6.664,0.357,1,DAMN.,2017.0,3x Multi-Platinum,Tde / Aftermath / Interscope,post_ai
+do not disturb,drake,72.0,0.465,0.69,171.029,0.234,0.787,283551.0,0.0,0.112,-6.206,0.404,0,More Life,2017.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+don't go breaking my heart,backstreet boys,58.0,0.238,0.703,94.858,0.0218,0.541,215724.0,0.0,0.0964,-5.573,0.10200000000000001,1,DNA,2018.0,,,post_ai
+don't touch my hair,solange,61.0,0.397,0.411,90.997,0.409,0.823,257547.0,0.00135,0.649,-7.061,0.0557,1,A Seat at the Table,2016.0,,,post_ai
+don't wanna know,maroon 5,5.0,0.428,0.6230000000000001,100.079,0.377,0.781,214267.0,0.0,0.0989,-6.098,0.08069999999999998,1,Red Pill Blues + (Deluxe),2016.0,2x Multi-Platinum,222 Records / Interscope,post_ai
+down in the dm,yo gotti,64.0,0.324,0.662,152.927,0.00157,0.776,182733.0,2.1e-05,0.0887,-7.016000000000001,0.0489,0,The Art of Hustle (Deluxe),2016.0,2x Multi-Platinum,Epic,post_ai
+down to the honkytonk,jake owen,73.0,0.937,0.808,82.02099999999999,0.19,0.6340000000000001,186867.0,0.0,0.0898,-4.12,0.05159999999999999,1,Greetings From...Jake,2018.0,Gold,Big Loud Records,post_ai
+duckworth.,kendrick lamar,66.0,0.632,0.731,174.516,0.0536,0.552,248613.0,0.0,0.258,-6.873,0.615,1,DAMN.,2017.0,Gold,Tde / Aftermath / Interscope,post_ai
+el amante,nicky jam,60.0,0.732,0.691,179.91,0.243,0.683,219507.0,0.0,0.14,-5.535,0.0432,1,Fenix,2017.0,13x Diamond,Sony Latin,post_ai
+element.,kendrick lamar,73.0,0.483,0.705,189.891,0.204,0.748,208733.0,0.0,0.246,-4.547,0.485,0,DAMN.,2017.0,1x Platinum,Tde / Aftermath / Interscope,post_ai
+elevate,drake,69.0,0.0541,0.474,76.062,0.015,0.758,184960.0,0.0,0.116,-8.72,0.146,1,Scorpion,2018.0,,,post_ai
+emoji a chain,migos,57.0,0.381,0.333,139.965,0.0348,0.891,315185.0,0.0,0.126,-8.316,0.175,1,Culture II,2018.0,,,post_ai
+emotionless,drake,69.0,0.0845,0.677,172.501,0.0249,0.413,302173.0,0.0,0.0793,-5.12,0.255,1,Scorpion,2018.0,,,post_ai
+end game,taylor swift,70.0,0.151,0.589,159.073,0.00845,0.6490000000000001,244827.0,0.0,0.108,-6.237,0.0558,1,reputation,2017.0,1x Platinum,Big Machine Records,post_ai
+eraser,ed sheeran,68.0,0.914,0.812,86.013,0.086,0.64,227427.0,0.0,0.0509,-5.647,0.0834,0,÷ (Deluxe),2017.0,,,post_ai
+every time i hear that song,blake shelton,60.0,0.528,0.725,155.855,0.0558,0.523,214800.0,6.96e-06,0.09369999999999999,-5.448,0.0339,1,If I'm Honest,2016.0,,,post_ai
+faithful,drake,45.0,0.162,0.447,99.995,0.101,0.538,290133.0,1.68e-05,0.323,-10.546,0.153,1,Views,2016.0,,,post_ai
+fake love,drake,76.0,0.605,0.488,133.987,0.10800000000000001,0.927,210937.0,0.0,0.196,-9.433,0.42,0,More Life,2016.0,4x Multi-Platinum,Young Money / Cash Money / Republic Records,post_ai
+faking it,calvin harris,65.0,0.668,0.589,120.034,0.319,0.776,240093.0,0.0,0.0715,-4.543,0.115,0,Funk Wav Bounces Vol.1,2017.0,,,post_ai
+fall,eminem,75.0,0.535,0.546,182.973,0.227,0.83,262494.0,0.0,0.112,-5.716,0.295,1,Kamikaze,2018.0,,,post_ai
+fast,luke bryan,61.0,0.599,0.8979999999999999,145.953,0.22500000000000003,0.548,206213.0,0.0,0.1,-2.561,0.0459,0,Kill The Lights (Deluxe),2016.0,Gold,Capitol Records Nashville,post_ai
+fear.,kendrick lamar,66.0,0.434,0.479,150.414,0.604,0.588,460573.0,7.2e-06,0.527,-7.039,0.281,1,DAMN.,2017.0,Gold,Tde / Aftermath / Interscope,post_ai
+feel it still,portugal. the man,81.0,0.754,0.795,79.028,0.0417,0.801,163253.0,0.000113,0.0717,-5.115,0.0504,0,Woodstock,2017.0,,,post_ai
+feel no ways,drake,50.0,0.233,0.67,193.80000000000004,0.0331,0.584,240653.0,7.18e-06,0.109,-7.077000000000001,0.164,1,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+feel.,kendrick lamar,66.0,0.553,0.798,109.968,0.137,0.746,214827.0,0.0,0.139,-8.382,0.349,1,DAMN.,2017.0,Gold,Tde / Aftermath / Interscope,post_ai
+feels,calvin harris,76.0,0.872,0.745,101.018,0.0642,0.8930000000000001,223413.0,0.0,0.0943,-3.105,0.057100000000000005,0,Funk Wav Bounces Vol.1,2017.0,2x Multi-Platinum,Columbia,post_ai
+female,keith urban,63.0,0.321,0.47700000000000004,85.019,0.18600000000000003,0.567,195317.0,4.860000000000001e-05,0.111,-8.781,0.0331,0,Graffiti U,2017.0,,,post_ai
+filthy,justin timberlake,62.0,0.645,0.579,97.002,0.0354,0.745,293947.0,0.0118,0.246,-5.771,0.138,1,Man of the Woods,2018.0,,,post_ai
+final fantasy,drake,65.0,0.104,0.448,144.204,0.422,0.5,219960.0,8.03e-06,0.115,-10.977,0.442,1,Scorpion,2018.0,,,post_ai
+finesse,drake,69.0,0.298,0.32,94.99,0.133,0.807,182080.0,0.000328,0.101,-8.152,0.0582,0,Scorpion,2018.0,,,post_ai
+fire & desire,drake,53.0,0.251,0.255,80.001,0.0797,0.711,238120.0,0.0,0.0869,-14.394,0.0851,0,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+five more minutes,scotty mccreery,68.0,0.278,0.632,156.034,0.257,0.496,241147.0,1.07e-06,0.10900000000000001,-4.933,0.028199999999999996,1,Seasons Change,2017.0,1x Platinum,Triple Tigers Records,post_ai
+foldin clothes,j. cole,61.0,0.6,0.496,162.039,0.218,0.713,316920.0,0.000237,0.0761,-10.045,0.311,0,4 Your Eyez Only,2016.0,,,post_ai
+for the first time,darius rucker,66.0,0.666,0.804,142.016,0.00738,0.547,197053.0,0.0,0.0308,-5.268,0.0361,1,When Was The Last Time,2017.0,,,post_ai
+for whom the bell tolls,j. cole,61.0,0.169,0.407,111.65,0.471,0.652,127880.0,0.0,0.294,-11.028,0.0354,0,4 Your Eyez Only,2016.0,,,post_ai
+forever,rascal flatts,7.5,0.20350000000000001,0.6984999999999999,134.988,0.1415,0.4,256853.0,0.0,0.1125,-6.984999999999999,0.0359,1,Unstoppable,2016.0,,,post_ai
+formation,beyonce,77.0,0.818,0.6209999999999999,121.966,0.00532,0.896,206080.0,0.0,0.196,-6.857,0.23699999999999996,0,Lemonade,2016.0,1x Platinum,Columbia,post_ai
+free smoke,drake,66.0,0.208,0.492,141.953,0.0621,0.617,218674.0,0.0,0.484,-7.588,0.448,0,More Life,2017.0,1x Platinum,Young Money / Cash Money / Republic Records,post_ai
+fresh eyes,andy grammer,71.0,0.872,0.56,122.05400000000002,0.548,0.828,198001.0,3.66e-05,0.15,-6.685,0.0327,1,The Good Parts,2016.0,1x Platinum,s-Curve Records,post_ai
+galway girl,ed sheeran,81.0,0.781,0.876,99.943,0.0735,0.624,170827.0,0.0,0.327,-3.374,0.1,1,÷ (Deluxe),2017.0,1x Platinum,Atlantic Records,post_ai
+gang gang,migos,63.0,0.515,0.601,180.046,0.272,0.635,181319.0,0.0,0.112,-9.837,0.144,1,Culture II,2018.0,,,post_ai
+get along,kenny chesney,72.0,0.35,0.804,92.456,0.101,0.632,199625.0,0.0,0.17,-6.108999999999999,0.0503,1,Songs for the Saints,2018.0,1x Platinum,Blue Chair Records / Warner Bros Nashville,post_ai
+get it together,drake,71.0,0.844,0.729,123.009,0.0896,0.78,250337.0,0.422,0.104,-9.138,0.0493,0,More Life,2017.0,,,post_ai
+get right witcha,migos,68.0,0.62,0.743,136.98,0.0646,0.95,257546.0,1.19e-05,0.103,-5.861,0.238,0,Culture,2017.0,Gold,Quality Control Music / 300 Entertainment,post_ai
+girls like you,maroon 5,18.333333333333332,0.40900000000000003,0.4866666666666667,60.02199999999999,0.5526666666666668,0.6253333333333334,222045.66666666666,3.366666666666667e-07,0.12966666666666668,-6.992666666666667,0.07536666666666668,1,Red Pill Blues (Deluxe),2018.0,1x Platinum,222 Records / Interscope,post_ai
+glow,drake,59.0,0.391,0.385,162.039,0.227,0.669,206120.0,0.0,0.7,-8.901,0.378,1,More Life,2017.0,,,post_ai
+go get it,t.i.,57.0,0.51,0.667,76.627,0.00212,0.366,217520.0,0.0,0.398,-5.683,0.246,1,Trouble Man: Heavy is the Head,2018.0,,,post_ai
+god's plan,drake,86.0,0.357,0.44900000000000007,77.169,0.0332,0.754,198973.0,8.29e-05,0.552,-9.211,0.109,1,Scorpion,2018.0,8x Multi-Platinum,Young Money / Cash Money / Republic Records,post_ai
+god.,kendrick lamar,65.0,0.205,0.557,132.98,0.0347,0.706,248827.0,0.0,0.276,-5.8,0.0813,1,DAMN.,2017.0,Gold,Tde / Aftermath / Interscope,post_ai
+good form,nicki minaj,57.0,0.288,0.775,96.504,0.114,0.88,199400.0,0.00267,0.0944,-5.133,0.09400000000000001,1,Queen (Deluxe),2018.0,,,post_ai
+gorgeous,taylor swift,67.0,0.451,0.535,92.027,0.0713,0.8,209680.0,9.48e-06,0.213,-6.684,0.135,1,reputation,2017.0,Gold,Big Machine Records,post_ai
+gotta lotta,2 chainz,52.0,0.177,0.608,81.969,0.00282,0.681,214720.0,0.0,0.0869,-7.344,0.0504,0,COLLEGROVE,2016.0,,,post_ai
+grammys,drake,48.0,0.116,0.43,145.802,0.00199,0.676,220427.0,2.46e-06,0.08,-9.533,0.525,1,Views,2016.0,,,post_ai
+grass ain't greener,chris brown,55.0,0.512,0.601,133.954,0.39,0.651,201422.0,0.0,0.0882,-5.097,0.0497,0,Heartbreak on a Full Moon,2016.0,1x Platinum,Rca,post_ai
+greatest,eminem,73.0,0.367,0.737,80.025,0.0441,0.809,226938.0,0.0,0.341,-5.186,0.108,1,Kamikaze,2018.0,,,post_ai
+gyalchester,drake,71.0,0.156,0.389,131.012,0.0343,0.872,189230.0,0.000679,0.09410000000000002,-8.343,0.0634,1,More Life,2017.0,1x Platinum,Young Money / Cash Money / Republic Records,post_ai
+halfway off the balcony,big sean,55.0,0.136,0.809,125.285,0.36,0.529,230960.0,0.0,0.242,-6.554,0.269,1,I Decided.,2017.0,,,post_ai
+handclap,fitz and the tantrums,68.0,0.715,0.836,139.956,0.00609,0.636,193253.0,0.000157,0.0828,-3.004,0.0427,1,Fitz and The Tantrums (Deluxe),2016.0,,,post_ai
+hangin' on,chris young,68.0,0.596,0.831,156.034,0.0651,0.43400000000000005,185440.0,0.0,0.119,-4.774,0.0453,1,Losing Sleep,2018.0,,,post_ai
+happier,ed sheeran,84.0,0.236,0.385,89.792,0.536,0.522,207520.0,0.0,0.135,-7.355,0.0288,1,÷ (Deluxe),2017.0,1x Platinum,Atlantic Records,post_ai
+hard times,paramore,73.0,0.916,0.818,119.965,0.00647,0.695,182693.0,4.87e-06,0.0219,-5.379,0.0334,0,After Laughter,2017.0,Gold,Fueled by Ramen,post_ai
+have it all,jason mraz,69.0,0.6,0.638,82.001,0.204,0.643,226107.0,0.0,0.0707,-4.947,0.0407,0,Know.,2018.0,Gold,Atlantic Records,post_ai
+head above water,avril lavigne,75.0,0.268,0.694,129.921,0.0112,0.578,220850.0,0.0,0.102,-5.351,0.0706,1,Head Above Water,2018.0,,,post_ai
+hearts don't break around here,ed sheeran,72.0,0.181,0.366,105.177,0.719,0.604,248413.0,0.0,0.162,-7.881,0.0267,1,÷ (Deluxe),2017.0,Gold,Atlantic Records,post_ai
+heatstroke,calvin harris,60.0,0.713,0.728,110.165,0.34,0.784,229160.0,0.0,0.222,-4.549,0.0539,0,Funk Wav Bounces Vol.1,2017.0,,,post_ai
+heavy heart,meek mill,47.0,0.351,0.695,73.031,0.239,0.472,250467.0,0.0,0.0942,-5.008,0.443,0,Wins & Losses (Deluxe),2017.0,,,post_ai
+"hey look ma, i made it",panic! at the disco,81.0,0.58,0.8330000000000001,107.936,0.0137,0.577,169667.0,0.0,0.121,-3.337,0.0695,1,Pray for the Wicked,2018.0,Gold,Fueled by Ramen,post_ai
+high hopes,panic! at the disco,87.0,0.6810000000000002,0.904,82.014,0.193,0.579,190947.0,0.0,0.064,-2.729,0.061799999999999994,1,Pray for the Wicked,2018.0,3x Multi-Platinum,Fueled by Ramen,post_ai
+hittas,lil wayne,57.0,0.667,0.765,144.046,0.276,0.788,223617.0,0.0,0.216,-3.93,0.439,1,Tha Carter V,2018.0,,,post_ai
+hold up,beyonce,77.0,0.552,0.39699999999999996,80.744,0.745,0.524,221093.0,0.0,0.521,-11.935999999999998,0.40499999999999997,1,Lemonade,2016.0,1x Platinum,Columbia,post_ai
+hometown girl,josh turner,70.0,0.445,0.79,155.934,0.263,0.505,215080.0,0.0884,0.123,-5.442,0.035,0,Deep South,2016.0,1x Platinum,Mca Records Nashville,post_ai
+humble.,kendrick lamar,84.0,0.421,0.621,150.011,0.000282,0.9080000000000001,177000.0,5.39e-05,0.0958,-6.638,0.102,0,DAMN.,2017.0,7x Multi-Platinum,Tde / Aftermath / Interscope,post_ai
+hurt feelings,mac miller,73.0,0.325,0.462,157.655,0.343,0.69,245640.0,0.00218,0.113,-8.054,0.13,1,Swimming,2018.0,,,post_ai
+hype,drake,50.0,0.236,0.62,129.959,0.0226,0.79,209413.0,0.0,0.365,-8.278,0.195,1,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+i lived it,blake shelton,64.0,0.392,0.571,80.981,0.476,0.557,219600.0,0.00114,0.101,-8.106,0.0281,1,Texoma Shore,2017.0,,,post_ai
+i'll name the dogs,blake shelton,65.0,0.763,0.8700000000000001,83.392,0.171,0.348,183640.0,4.4e-06,0.202,-5.86,0.137,1,Texoma Shore,2017.0,Gold,Warner Bros Nashville,post_ai
+i'm upset,drake,75.0,0.492,0.586,150.001,0.279,0.899,214467.0,0.0,0.0836,-7.866,0.344,0,Scorpion,2018.0,,,post_ai
+ice melts,drake,63.0,0.631,0.558,124.949,0.0754,0.813,250770.0,0.0,0.385,-7.559,0.337,1,More Life,2017.0,,,post_ai
+if i told you,darius rucker,66.0,0.308,0.64,84.029,0.344,0.532,212320.0,0.0,0.361,-6.684,0.0314,1,When Was The Last Time,2016.0,1x Platinum,Capitol Nashville,post_ai
+if the boot fits,granger smith,55.0,0.8850000000000001,0.928,162.069,0.0252,0.528,170093.0,2.88e-06,0.0467,-5.742999999999999,0.0456,1,Remington,2016.0,,,post_ai
+if you know you know,pusha t,66.0,0.701,0.697,153.426,0.0186,0.46,202120.0,0.0,0.362,-5.954,0.325,0,DAYTONA,2018.0,,,post_ai
+immortal,j. cole,68.0,0.253,0.41899999999999993,91.634,0.43499999999999994,0.713,201667.0,2.87e-06,0.126,-10.668,0.356,1,4 Your Eyez Only,2016.0,,,post_ai
+in my feelings,drake,84.0,0.35,0.626,91.03,0.0589,0.8349999999999999,217925.0,6e-05,0.39599999999999996,-5.832999999999999,0.125,1,Scorpion,2018.0,,,post_ai
+infrared,pusha t,55.0,0.163,0.578,112.265,0.0518,0.674,170240.0,0.0055,0.72,-8.768,0.298,0,DAYTONA,2018.0,,,post_ai
+intro,j. cole,48.0,0.39022500000000004,0.33325,86.70475,0.82475,0.518,93310.25,0.01743945,0.11274999999999999,-14.87475,0.16870000000000002,0,2014 Forest Hills Drive,2018.0,,,post_ai
+is there more,drake,65.0,0.548,0.547,83.801,0.727,0.698,226907.0,0.0,0.159,-7.607,0.315,1,Scorpion,2018.0,,,post_ai
+issues,meek mill,46.0,0.382,0.608,90.713,0.167,0.784,211685.0,0.0,0.0871,-5.885,0.245,1,Wins & Losses (Deluxe),2017.0,,,post_ai
+it's a vibe,2 chainz,76.0,0.523,0.505,73.003,0.0317,0.8219999999999998,210200.0,0.000911,0.11400000000000002,-7.384,0.147,1,Pretty Girls Like Trap Music,2017.0,2x Multi-Platinum,Def Jam,post_ai
+jaded,drake,71.0,0.0371,0.271,116.02,0.037,0.766,262453.0,0.0,0.175,-5.697,0.0412,1,Scorpion,2018.0,,,post_ai
+jorja interlude,drake,63.0,0.205,0.354,123.152,0.755,0.719,107673.0,0.00969,0.349,-10.461,0.104,1,More Life,2017.0,,,post_ai
+juice,yo gotti,59.0,0.754,0.568,162.038,0.0017100000000000001,0.8870000000000001,149242.0,1.11e-05,0.0812,-5.853,0.323,1,I Still Am,2017.0,,,post_ai
+jump out the window,big sean,71.0,0.554,0.714,136.972,0.147,0.745,213693.0,0.0,0.132,-6.729,0.0768,1,I Decided.,2017.0,1x Platinum,Def Jam,post_ai
+jumpsuit,twenty one pilots,75.0,0.235,0.61,127.052,0.00849,0.62,238560.0,0.162,0.205,-8.329,0.0373,0,Trench,2018.0,Gold,Fueled by Ramen,post_ai
+kamikaze,eminem,73.0,0.642,0.8080000000000002,79.982,0.112,0.7799999999999999,216029.0,0.0,0.329,-5.175,0.484,1,Kamikaze,2018.0,,,post_ai
+keep the family close,drake,44.0,0.214,0.565,76.278,0.137,0.302,328907.0,0.0,0.381,-7.663,0.073,0,Views,2016.0,,,post_ai
+kids,onerepublic,46.0,0.217,0.739,100.003,0.0175,0.596,238387.0,0.0,0.309,-6.192,0.0398,1,Oh My My (Deluxe),2016.0,,,post_ai
+kiss it better,rihanna,69.0,0.835,0.826,95.00600000000001,0.264,0.62,253080.0,0.0,0.0637,-4.76,0.0492,0,ANTI (Deluxe),2016.0,1x Platinum,"Westbury Road Entertainment, Llc  /  Roc Nation, Llc",post_ai
+kmt,drake,65.0,0.0883,0.623,119.983,0.0143,0.872,162638.0,0.0214,0.125,-6.984,0.0446,1,More Life,2017.0,,,post_ai
+kod,j. cole,76.0,0.19899999999999998,0.782,141.869,0.21,0.831,191437.0,0.0,0.113,-6.274,0.15,1,KOD,2018.0,,,post_ai
+let it all work out,lil wayne,64.0,0.439,0.562,135.014,0.0216,0.552,316192.0,0.0,0.302,-6.862,0.164,1,Tha Carter V,2018.0,,,post_ai
+level up,ciara,65.0,0.584,0.8249999999999998,152.914,0.014199999999999999,0.746,204150.0,0.0107,0.121,-4.666,0.169,1,Beauty Marks,2018.0,1x Platinum,Beauty Marks Entertainment,post_ai
+light,big sean,53.0,0.199,0.608,84.932,0.831,0.578,210507.0,0.0,0.108,-5.997,0.0507,0,I Decided.,2017.0,,,post_ai
+light it up,luke bryan,65.0,0.677,0.929,130.024,0.11799999999999998,0.602,177306.0,0.0,0.103,-2.741,0.0839,0,What Makes You Country,2017.0,1x Platinum,Capitol Records Nashville,post_ai
+look what you made me do,taylor swift,70.0,0.506,0.709,128.07,0.204,0.766,211853.0,1.41e-05,0.126,-6.471,0.12299999999999998,0,reputation,2017.0,4x Multi-Platinum,Big Machine Records,post_ai
+lose you,drake,60.0,0.373,0.576,87.983,0.736,0.519,305374.0,0.0,0.371,-9.162,0.414,1,More Life,2017.0,,,post_ai
+losing sleep,chris young,68.0,0.634,0.621,92.003,0.0715,0.584,178253.0,1.68e-06,0.389,-5.703,0.0443,1,Losing Sleep,2017.0,1x Platinum,Rca Nashville,post_ai
+love,lana del rey,72.0,0.234,0.366,98.994,0.487,0.527,272743.0,0.0023,0.11,-10.943,0.0277,1,Lust For Life,2017.0,,,post_ai
+love drought,beyonce,65.0,0.216,0.535,157.01,0.0209,0.455,237440.0,0.64,0.126,-10.602,0.0426,0,Lemonade,2016.0,,,post_ai
+love me now,john legend,69.0,0.709,0.762,123.88900000000001,0.591,0.488,210293.0,0.0,0.0763,-3.842,0.0865,1,DARKNESS AND LIGHT,2016.0,Gold,Columbia,post_ai
+love on the brain,rihanna,81.0,0.369,0.632,171.92,0.0777,0.503,224000.0,1.3e-05,0.0758,-4.854,0.0492,0,ANTI (Deluxe),2016.0,3x Multi-Platinum,"Westbury Road Entertainment, Llc  /  Roc Nation, Llc",post_ai
+love on the weekend,john mayer,70.0,0.422,0.583,119.97,0.623,0.718,212320.0,0.000662,0.0612,-7.884,0.0288,1,The Search for Everything,2016.0,Gold,Columbia,post_ai
+love so soft,kelly clarkson,64.0,0.7579999999999999,0.581,130.012,0.0053,0.808,172427.0,1.19e-05,0.0828,-5.430000000000001,0.07,1,Meaning Of Life,2017.0,1x Platinum,Atlantic Records,post_ai
+love wins,carrie underwood,61.0,0.325,0.865,135.115,0.0112,0.523,228640.0,0.0,0.153,-4.697,0.0989,1,Cry Pretty,2018.0,,,post_ai
+lust.,kendrick lamar,66.0,0.566,0.562,94.241,0.193,0.678,307880.0,0.0,0.104,-9.197,0.508,0,DAMN.,2017.0,Gold,Tde / Aftermath / Interscope,post_ai
+madiba riddim,drake,65.0,0.319,0.527,105.86,0.235,0.834,205163.0,0.00968,0.632,-10.4,0.193,1,More Life,2017.0,,,post_ai
+make me feel,janelle monae,69.0,0.697,0.413,115.035,0.132,0.859,194230.0,0.0,0.334,-7.399,0.182,1,Dirty Computer,2018.0,,,post_ai
+make me like you,gwen stefani,34.0,0.799,0.714,118.03600000000002,0.0403,0.741,216947.0,1.58e-05,0.127,-4.739,0.0476,0,This Is What The Truth Feels Like (Deluxe),2016.0,,,post_ai
+malibu,miley cyrus,79.0,0.343,0.781,139.934,0.0767,0.573,231907.0,2.64e-05,0.0813,-6.406,0.0555,1,Younger Now,2017.0,2x Multi-Platinum,Rca,post_ai
+man of the woods,justin timberlake,59.0,0.724,0.452,199.775,0.315,0.624,243987.0,1.02e-05,0.311,-8.206,0.0681,1,Man of the Woods,2018.0,,,post_ai
+march 14,drake,62.0,0.317,0.415,127.096,0.406,0.558,309560.0,0.0,0.36,-7.355,0.358,0,Scorpion,2018.0,,,post_ai
+me and your mama,childish gambino,45.0,0.236,0.438,117.962,0.01,0.552,379227.0,0.0325,0.0663,-12.399,0.0342,1,"""Awaken, My Love!""",2016.0,,,post_ai
+mess,lil wayne,62.0,0.421,0.579,145.994,0.479,0.641,212428.0,9.58e-05,0.214,-8.278,0.0895,1,Tha Carter V,2018.0,,,post_ai
+messin' around,pitbull,51.0,0.784,0.81,157.965,0.015,0.569,222693.0,0.0,0.0419,-4.593,0.0473,1,Climate Change,2016.0,Gold,Rca,post_ai
+middle child,j. cole,62.0,0.512,0.484,126.023,0.192,0.84,213000.0,0.0,0.282,-6.899,0.24100000000000002,1,Revenge Of The Dreamers III,2019.0,,,post_ai
+million reasons,lady gaga,80.0,0.134,0.42400000000000004,129.911,0.437,0.665,205280.0,0.0,0.10700000000000001,-7.837999999999999,0.0444,1,Joanne (Deluxe),2016.0,1x Platinum,Steamline / Interscope,post_ai
+mob ties,drake,76.0,0.49,0.575,85.987,0.0456,0.755,205147.0,0.00124,0.276,-8.393,0.0678,0,Scorpion,2018.0,,,post_ai
+most people are good,luke bryan,70.0,0.537,0.728,150.013,0.174,0.582,221801.0,0.0,0.139,-6.151,0.029199999999999997,1,What Makes You Country,2017.0,1x Platinum,Capitol Records Nashville,post_ai
+motiv8,j. cole,68.0,0.596,0.385,149.897,0.135,0.869,133922.0,0.0,0.0931,-7.801,0.297,1,KOD,2018.0,,,post_ai
+moves,big sean,68.0,0.367,0.53,75.515,0.0541,0.789,142907.0,0.0,0.164,-6.2,0.293,1,I Decided.,2016.0,1x Platinum,Def Jam,post_ai
+my blood,twenty one pilots,76.0,0.674,0.723,108.999,0.0563,0.749,229120.0,0.022,0.0977,-6.609,0.0432,1,Trench,2018.0,Gold,Fueled by Ramen,post_ai
+my old man,zac brown band,59.0,0.301,0.196,143.919,0.819,0.64,227222.0,3.63e-05,0.0978,-11.478,0.0267,1,Welcome Home,2017.0,Gold,Elektra / Atlantic Records,post_ai
+my pyt,wale,55.0,0.456,0.481,191.991,0.0139,0.554,236867.0,0.0,0.0787,-9.823,0.329,1,SHINE,2016.0,,,post_ai
+narcos,migos,75.0,0.238,0.588,124.987,0.0146,0.936,255379.0,0.0,0.13899999999999998,-6.9479999999999995,0.136,0,Culture II,2018.0,1x Platinum,Quality Control Music / Motown Records / Capitol Records,post_ai
+needed me,rihanna,77.0,0.273,0.325,110.786,0.09469999999999999,0.699,191600.0,0.0,0.086,-8.112,0.228,0,ANTI (Deluxe),2016.0,5x Multi-Platinum,"Westbury Road Entertainment, Llc  /  Roc Nation, Llc",post_ai
+neighbors,j. cole,74.0,0.413,0.284,138.944,0.35799999999999993,0.894,216520.0,0.000487,0.11,-13.002,0.33,0,4 Your Eyez Only,2016.0,,,post_ai
+new man,ed sheeran,72.0,0.862,0.745,94.026,0.0559,0.78,189280.0,0.0,0.0595,-3.97,0.145,1,÷ (Deluxe),2017.0,Gold,Atlantic Records,post_ai
+nice for what,drake,82.0,0.757,0.909,93.39400000000002,0.0891,0.586,210747.0,0.00010899999999999999,0.11899999999999998,-6.474,0.0705,1,Scorpion,2018.0,3x Multi-Platinum,Cash Money / Young Money / Republic Records,post_ai
+nico and the niners,twenty one pilots,74.0,0.328,0.602,140.081,0.0699,0.728,225040.0,7.01e-06,0.318,-7.748,0.185,0,Trench,2018.0,,,post_ai
+no favors,big sean,62.0,0.351,0.7680000000000001,124.719,0.608,0.58,325840.0,1.05e-06,0.342,-5.482,0.38599999999999995,1,I Decided.,2017.0,Gold,Def Jam,post_ai
+no long talk,drake,63.0,0.52,0.627,97.076,0.0626,0.919,149569.0,0.0,0.529,-6.764,0.234,0,More Life,2017.0,,,post_ai
+nobody else but you,trey songz,68.0,0.263,0.612,139.913,0.0381,0.7079999999999999,229013.0,0.0,0.277,-6.3790000000000004,0.122,0,Tremaine The Album,2017.0,1x Platinum,Atlantic Records,post_ai
+noise,kenny chesney,54.0,0.583,0.799,109.965,0.0095,0.58,203760.0,0.0,0.0925,-4.146,0.028,1,Cosmic Hallelujah,2016.0,Gold,Blue Chair Records / Columbia Nashville,post_ai
+nonstop,drake,84.0,0.42199999999999993,0.412,154.983,0.0164,0.912,238614.0,0.013,0.104,-8.074,0.12399999999999999,1,Scorpion,2018.0,,,post_ai
+normal,eminem,69.0,0.803,0.64,120.995,0.261,0.907,222477.0,0.0,0.0785,-6.542,0.354,1,Kamikaze,2018.0,,,post_ai
+nothings into somethings,drake,61.0,0.279,0.227,96.912,0.379,0.76,153725.0,0.0017,0.355,-8.327,0.15,0,More Life,2017.0,,,post_ai
+notice me,migos,73.0,0.47400000000000003,0.338,166.0,0.10400000000000001,0.796,233880.0,1.12e-06,0.165,-9.754,0.315,0,Culture II,2018.0,,,post_ai
+numb numb juice,schoolboy q,74.0,0.203,0.492,156.958,0.00172,0.885,107147.0,7.79e-05,0.081,-6.015,0.367,1,CrasH Talk,2019.0,,,post_ai
+on me,meek mill,26.0,0.139,0.636,132.148,0.161,0.727,184466.0,0.0,0.335,-5.137,0.202,1,First Come First Serve,2018.0,Gold,Atlantic Records,post_ai
+on my way to you,cody johnson,70.0,0.245,0.538,157.97,0.327,0.443,213307.0,4.61e-05,0.0866,-5.477,0.0309,1,Ain't Nothin' to It,2018.0,Gold,Cojo Music / Warner Music Nashville,post_ai
+on the regular,meek mill,52.0,0.352,0.764,146.03,0.0175,0.781,184110.0,0.0,0.102,-3.252,0.164,1,DC4,2016.0,,,post_ai
+one dance,drake,68.0,0.382,0.617,103.981,0.00902,0.785,173987.0,0.00246,0.351,-5.871,0.0522,1,Views,2016.0,7x Multi-Platinum,Young Money / Cash Money / Republic Records,post_ai
+only human,jonas brothers,88.0,0.874,0.496,94.01,0.108,0.795,183000.0,0.0,0.0645,-5.883,0.0722,1,Happiness Begins,2019.0,,,post_ai
+oodles o' noodles babies,meek mill,57.0,0.584,0.836,72.099,0.593,0.609,181274.0,0.0,0.466,-3.442,0.264,0,Championships,2018.0,,,post_ai
+open letter,lil wayne,59.0,0.36,0.55,97.01,0.0283,0.769,269287.0,0.0,0.139,-6.299,0.359,0,Tha Carter V,2018.0,,,post_ai
+open safe,lil wayne,59.0,0.501,0.598,96.012,0.00705,0.929,223939.0,0.0,0.0549,-5.373,0.156,1,Tha Carter V,2018.0,,,post_ai
+owe me,big sean,56.0,0.38,0.611,142.187,0.388,0.611,271693.0,0.0,0.113,-8.751,0.143,1,I Decided.,2017.0,,,post_ai
+passionfruit,drake,81.0,0.372,0.45899999999999996,111.963,0.304,0.804,298941.0,0.0862,0.11000000000000001,-11.556,0.039,1,More Life,2017.0,3x Multi-Platinum,Cash Money / Young Money / Republic Records,post_ai
+peak,drake,66.0,0.273,0.215,91.998,0.85,0.686,206027.0,0.000123,0.106,-13.54,0.0387,0,Scorpion,2018.0,,,post_ai
+perfect,ed sheeran,88.0,0.168,0.448,95.05,0.163,0.599,263400.0,0.0,0.106,-6.312,0.0232,1,÷ (Deluxe),2017.0,8x Multi-Platinum,Atlantic Records,post_ai
+perfect illusion,lady gaga,67.0,0.668,0.855,124.97700000000002,0.00138,0.625,182000.0,0.0,0.357,-5.471,0.0389,0,Joanne (Deluxe),2016.0,,,post_ai
+perfect strangers,lil wayne,58.0,0.542,0.644,146.178,0.4,0.746,249751.0,0.0,0.095,-2.605,0.232,1,Tha Carter V,2018.0,,,post_ai
+photograph,j. cole,67.0,0.372,0.487,105.05,0.0299,0.825,218954.0,0.0,0.0868,-6.416,0.233,1,KOD,2018.0,,,post_ai
+play that song,train,69.0,0.48200000000000004,0.825,98.959,0.0231,0.392,243253.0,2.25e-06,0.0972,-2.068,0.053500000000000006,0,a girl a bottle a boat,2016.0,1x Platinum,Columbia,post_ai
+portland,drake,76.0,0.314,0.444,136.088,0.0143,0.924,236615.0,0.0,0.26,-8.227,0.243,1,More Life,2017.0,2x Multi-Platinum,Young Money / Cash Money / Republic Records,post_ai
+pray you catch me,beyonce,65.0,0.0746,0.215,174.824,0.632,0.25,195987.0,0.0717,0.401,-13.676,0.037,0,Lemonade,2016.0,,,post_ai
+pride.,kendrick lamar,70.0,0.37,0.535,138.842,0.0786,0.665,275253.0,1.68e-05,0.154,-7.056,0.0572,0,DAMN.,2017.0,Gold,Tde / Aftermath / Interscope,post_ai
+privacy,chris brown,53.5,0.428,0.58,97.092,0.153,0.741,220964.0,0.0,0.109,-7.740999999999999,0.378,1,Heartbreak On A Full Moon Deluxe Edition: Cuffing Season - 12 Days Of Christmas,2017.0,1x Platinum,Rca,post_ai
+problems,lil wayne,57.0,0.0993,0.571,139.996,0.0169,0.807,208504.0,0.0,0.252,-6.937,0.312,1,Tha Carter V,2018.0,,,post_ai
+questions,chris brown,52.0,0.565,0.598,105.80299999999998,0.00543,0.614,129478.0,0.0,0.1,-6.335,0.0561,0,Heartbreak On A Full Moon Deluxe Edition: Cuffing Season - 12 Days Of Christmas,2017.0,Gold,Rca,post_ai
+rake it up,yo gotti,71.0,0.53,0.444,149.953,0.022,0.91,276333.0,0.0,0.137,-8.126,0.344,0,I Still Am,2017.0,3x Multi-Platinum,Epic,post_ai
+ratchet happy birthday,drake,64.0,0.626,0.571,167.961,0.106,0.657,207307.0,0.00121,0.0735,-12.519,0.14,1,Scorpion,2018.0,,,post_ai
+redbone,childish gambino,61.0,0.577,0.346,160.09,0.183,0.739,326933.0,0.0029800000000000004,0.152,-10.974,0.11,1,"""Awaken, My Love!""",2016.0,5x Multi-Platinum,Glassnote Entertainment Group Llc,post_ai
+redemption,drake,48.0,0.332,0.315,119.2,0.607,0.654,333947.0,1.8100000000000002e-06,0.117,-8.736,0.104,1,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+respect the game,meek mill,60.0,0.159,0.67,89.842,0.0871,0.603,192099.0,0.0,0.326,-4.809,0.25,1,Championships,2018.0,,,post_ai
+river,eminem,51.0,0.659,0.749,90.08999999999999,0.142,0.7479999999999999,221013.0,0.0,0.0713,-5.916,0.516,0,Revival,2017.0,,,post_ai
+rollin,calvin harris,65.0,0.657,0.76,91.953,0.446,0.753,272653.0,3.13e-05,0.182,-4.518,0.0859,0,Funk Wav Bounces Vol.1,2017.0,Gold,Columbia,post_ai
+rumor,lee brice,79.0,0.599,0.56,140.975,0.749,0.655,198440.0,0.0,0.115,-6.857,0.0486,1,Lee Brice,2017.0,1x Platinum,Curb Records,post_ai
+sacrifices,big sean,61.0,0.394,0.565,141.999,0.284,0.77,287320.0,0.0,0.257,-7.641,0.272,0,I Decided.,2017.0,,,post_ai
+sacrifices,drake,64.0,0.555,0.432,139.028,0.0463,0.903,307593.0,0.0,0.111,-11.885,0.426,1,More Life,2017.0,,,post_ai
+sandcastles,beyonce,67.0,0.101,0.357,84.119,0.866,0.33,182720.0,1.76e-05,0.19,-10.171,0.0348,1,Lemonade,2016.0,,,post_ai
+say something,justin timberlake,75.0,0.372,0.632,97.04,0.103,0.707,278893.0,1.09e-05,0.0841,-7.031,0.0789,1,Man of the Woods,2018.0,,,post_ai
+self care,mac miller,79.0,0.17699999999999996,0.538,141.894,0.367,0.52,345133.0,0.00187,0.119,-8.109,0.206,1,Swimming,2018.0,1x Platinum,Warner Records,post_ai
+setting the world on fire,kenny chesney,64.0,0.437,0.8219999999999998,93.993,0.0171,0.61,217467.0,1.88e-06,0.093,-4.422,0.0355,1,Cosmic Hallelujah,2016.0,,,post_ai
+sex with me,rihanna,68.0,0.394,0.541,112.013,0.292,0.614,206400.0,0.0,0.106,-5.659,0.0407,0,ANTI (Deluxe),2016.0,1x Platinum,"Westbury Road Entertainment, Llc  /  Roc Nation, Llc",post_ai
+shape of you,ed sheeran,87.0,0.931,0.652,95.977,0.581,0.825,233713.0,0.0,0.0931,-3.1829999999999994,0.0802,0,÷ (Deluxe),2017.0,10x Diamond,Atlantic Records,post_ai
+she's got a way with words,blake shelton,58.0,0.68,0.697,148.93,0.326,0.616,190987.0,2.18e-05,0.0827,-5.952000000000001,0.0295,1,If I'm Honest,2016.0,Gold,Warner Bros,post_ai
+since way back,drake,60.0,0.258,0.275,76.683,0.352,0.429,368036.0,6.58e-06,0.185,-11.156,0.161,1,More Life,2017.0,,,post_ai
+sit next to me,foster the people,75.0,0.657,0.738,97.021,0.11700000000000002,0.638,243147.0,0.000384,0.689,-4.976,0.029199999999999997,0,Sacred Hearts Club,2017.0,1x Platinum,Columbia,post_ai
+skepta interlude,drake,60.0,0.403,0.813,129.962,0.0117,0.801,143214.0,3.79e-06,0.157,-6.404,0.23,1,More Life,2017.0,,,post_ai
+slide,calvin harris,71.0,0.511,0.795,104.066,0.49800000000000005,0.736,230813.0,1.21e-06,0.254,-3.2990000000000004,0.05450000000000001,0,Funk Wav Bounces Vol.1,2017.0,3x Multi-Platinum,Columbia,post_ai
+somebody else will,justin moore,39.0,0.581,0.7569999999999999,180.151,0.0427,0.485,165173.0,0.0,0.0943,-4.24,0.146,0,Kinda Don't Care (Deluxe Version),2016.0,Gold,the Valory Music Co,post_ai
+something in the way you move,ellie goulding,55.0,0.316,0.8139999999999998,109.00399999999999,0.0398,0.658,227423.0,0.0,0.11400000000000002,-6.157,0.0493,0,Delirium (Deluxe),2016.0,Gold,Interscope,post_ai
+somewhere on a beach,dierks bentley,68.0,0.44699999999999995,0.635,144.031,0.000598,0.573,197120.0,0.0,0.0845,-6.621,0.027500000000000004,1,Black,2016.0,1x Platinum,Capitol Nashville,post_ai
+sorry,beyonce,74.0,0.356,0.598,129.988,0.0017500000000000003,0.775,232560.0,4.44e-06,0.253,-7.273999999999999,0.053500000000000006,1,Lemonade,2016.0,1x Platinum,Columbia,post_ai
+sorry not sorry,demi lovato,82.0,0.887,0.64,144.077,0.0237,0.705,203760.0,0.0,0.262,-6.928,0.225,0,Tell Me You Love Me (Deluxe),2017.0,4x Multi-Platinum,Island Records,post_ai
+stepping stone,eminem,69.0,0.312,0.684,179.503,0.0305,0.616,309638.0,0.0,0.376,-6.032,0.311,1,Kamikaze,2018.0,,,post_ai
+still here,drake,61.0,0.23400000000000004,0.43600000000000005,133.942,0.0235,0.835,189853.0,0.0,0.635,-9.602,0.176,1,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+stir fry,migos,76.0,0.498,0.816,181.967,0.00299,0.815,190288.0,0.0,0.159,-5.474,0.269,1,Culture II,2017.0,2x Multi-Platinum,Quality Control Music / Motown Records / Capitol Records,post_ai
+sucker,jonas brothers,81.0,0.9519999999999998,0.734,137.958,0.0427,0.842,181027.0,0.0,0.106,-5.065,0.0588,0,Happiness Begins,2019.0,1x Platinum,Republic Records,post_ai
+summer games,drake,67.0,0.134,0.482,136.016,0.477,0.775,247893.0,0.0456,0.11,-11.269,0.0357,1,Scorpion,2018.0,,,post_ai
+"sunrise, sunburn, sunset",luke bryan,70.0,0.718,0.884,159.96,0.185,0.472,216093.0,0.0,0.178,-2.306,0.0584,1,What Makes You Country,2017.0,Gold,Capitol Records Nashville,post_ai
+supastars,migos,60.0,0.328,0.676,75.944,0.25,0.781,293138.0,0.0,0.0783,-4.387,0.0596,1,Culture II,2018.0,,,post_ai
+supermarket flowers,ed sheeran,80.0,0.257,0.242,89.749,0.914,0.589,221107.0,0.0,0.0887,-10.517,0.0442,1,÷ (Deluxe),2017.0,Gold,Atlantic Records,post_ai
+supplies,justin timberlake,57.0,0.225,0.554,119.993,0.00695,0.793,225600.0,0.0,0.127,-6.624,0.0451,0,Man of the Woods,2018.0,,,post_ai
+survival,drake,66.0,0.149,0.596,77.324,0.133,0.607,136187.0,0.0,0.123,-9.09,0.358,0,Scorpion,2018.0,,,post_ai
+swish swish,katy perry,39.0,0.575,0.705,119.954,0.0184,0.8390000000000001,242520.0,1.77e-05,0.10200000000000001,-5.194,0.0445,0,Witness (Deluxe),2017.0,1x Platinum,Capitol Records,post_ai
+teenage fever,drake,74.0,0.175,0.282,97.043,0.11,0.768,219692.0,0.0208,0.113,-10.348,0.0863,0,More Life,2017.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+tell me you love me,demi lovato,73.0,0.26,0.6,81.888,0.0273,0.538,236987.0,0.0,0.147,-5.463,0.0489,1,Tell Me You Love Me (Deluxe),2017.0,1x Platinum,Island Records / Hollywood Records,post_ai
+tempo,chris brown,55.5,0.487,0.482,120.959,0.192,0.769,218744.0,0.0,0.0903,-7.205,0.0502,1,Heartbreak On A Full Moon Deluxe Edition: Cuffing Season - 12 Days Of Christmas,2017.0,,,post_ai
+that part,schoolboy q,67.0,0.336,0.535,112.96,0.0855,0.9269999999999999,313573.0,0.0,0.136,-7.590000000000001,0.0911,0,Blank Face LP,2016.0,2x Multi-Platinum,Top Dawg Entertainment / Interscope,post_ai
+that's what i like,bruno mars,83.0,0.86,0.56,134.066,0.012999999999999998,0.853,206693.0,0.0,0.0944,-4.961,0.0406,1,24K Magic,2016.0,7x Multi-Platinum,Atlantic Records,post_ai
+the fighter,keith urban,52.0,0.7549999999999999,0.856,132.011,0.0224,0.681,184040.0,0.0,0.188,-5.166,0.0517,0,Ripcord,2016.0,1x Platinum,Capitol Records Nashville,post_ai
+the games we play,pusha t,65.0,0.592,0.796,78.033,0.0713,0.694,166120.0,0.0163,0.096,-3.696,0.198,1,DAYTONA,2018.0,,,post_ai
+the greatest,sia,59.5,0.7075,0.7549999999999999,191.947,0.013800000000000002,0.6535,210573.5,0.0007745,0.05365,-6.147,0.21999999999999997,1,This Is Acting (Deluxe Edition),2016.0,,,post_ai
+the ringer,eminem,76.0,0.42,0.551,118.552,0.0311,0.939,337941.0,0.0,0.192,-9.126,0.291,1,Kamikaze,2018.0,,,post_ai
+the weekend,brantley gilbert,38.0,0.726,0.8139999999999998,82.02,0.0528,0.531,188373.0,1.53e-06,0.0647,-4.744,0.0384,0,The Devil Don't Sleep (Deluxe),2016.0,1x Platinum,Valory Music Group,post_ai
+this is it,scotty mccreery,74.0,0.602,0.511,156.042,0.254,0.557,230973.0,0.0,0.099,-6.787999999999999,0.029100000000000004,1,Seasons Change,2018.0,Gold,Triple Tigers,post_ai
+tin man,miranda lambert,64.0,0.292,0.372,79.456,0.861,0.425,259280.0,0.0148,0.0733,-10.92,0.03,1,The Weight of These Wings,2016.0,1x Platinum,Vanner Records / Rca Nashville,post_ai
+to the max,dj khaled,53.0,0.72,0.812,159.869,0.0184,0.461,193902.0,0.000375,0.21,-5.776,0.241,0,Grateful,2017.0,Gold,We the Best / Epic,post_ai
+today,brad paisley,56.0,0.285,0.632,74.257,0.539,0.347,229338.0,0.00226,0.121,-6.998000000000001,0.0381,1,Love and War,2016.0,,,post_ai
+too good,drake,61.0,0.397,0.65,117.98400000000001,0.0606,0.804,263373.0,7.05e-05,0.102,-7.79,0.118,1,Views,2016.0,3x Multi-Platinum,Cash Money / Young Money / Republic Records,post_ai
+took his time,lil wayne,59.0,0.641,0.703,149.988,0.144,0.752,262400.0,0.0,0.325,-3.417,0.213,0,Tha Carter V,2018.0,,,post_ai
+trap trap trap,rick ross,54.0,0.349,0.838,136.869,0.00612,0.729,275720.0,0.0,0.0721,-4.476,0.313,0,Rather You Than Me,2017.0,,,post_ai
+u with me?,drake,46.0,0.129,0.414,79.542,0.363,0.419,297373.0,1.1e-05,0.141,-11.448,0.132,0,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+undecided,chris brown,59.5,0.488,0.612,96.943,0.292,0.407,185000.0,0.0,0.19800000000000004,-4.387,0.129,0,Indigo (Extended),2019.0,,,post_ai
+unforgettable,french montana,83.0,0.733,0.769,97.985,0.0293,0.726,233902.0,0.0101,0.10400000000000001,-5.043,0.123,1,Jungle Rules,2017.0,6x Multi-Platinum,Epic,post_ai
+untouchable,eminem,42.0,0.648,0.887,172.233,0.0803,0.554,370133.0,0.0,0.15,-3.367,0.503,1,Revival,2017.0,,,post_ai
+uproar,lil wayne,76.0,0.884,0.8699999999999999,99.075,0.0595,0.743,194184.0,0.0,0.299,-2.188,0.21200000000000002,1,Tha Carter V,2018.0,1x Platinum,Young Money Records,post_ai
+used 2,lil wayne,59.0,0.523,0.666,87.634,0.337,0.678,240199.0,0.0,0.115,-6.949,0.487,1,Tha Carter V,2018.0,,,post_ai
+versace on the floor,bruno mars,77.0,0.301,0.574,174.152,0.196,0.578,261240.0,0.0,0.083,-6.208999999999999,0.0454,1,24K Magic,2016.0,1x Platinum,Atlantic Records,post_ai
+vice,miranda lambert,61.0,0.24699999999999997,0.562,133.647,0.101,0.568,240280.0,6.16e-05,0.363,-7.7749999999999995,0.0418,1,The Weight of These Wings,2016.0,1x Platinum,Vanner Records / Rca Nashville,post_ai
+views,drake,44.0,0.0856,0.855,77.237,0.0614,0.457,311960.0,0.0,0.238,-5.873,0.342,1,Views,2016.0,,,post_ai
+ville mentality,j. cole,64.0,0.626,0.378,119.976,0.789,0.857,194347.0,0.000171,0.119,-8.371,0.0928,0,4 Your Eyez Only,2016.0,,,post_ai
+wait,maroon 5,22.5,0.4535,0.596,126.109,0.09725,0.6545,190641.5,0.0,0.105,-5.011500000000001,0.056850000000000005,1,Red Pill Blues (Deluxe),2017.0,1x Platinum,222 Records / Interscope,post_ai
+walk it talk it,migos,80.0,0.406,0.628,145.905,0.0739,0.909,276147.0,0.0,0.108,-5.456,0.20100000000000004,1,Culture II,2018.0,2x Multi-Platinum,Quality Control Music / Motown Records / Capitol Records,post_ai
+walk me home,p!nk,35.0,0.432,0.453,88.038,0.0519,0.652,177391.0,0.0,0.179,-6.119,0.0445,1,Hurts 2B Human,2019.0,,,post_ai
+walk on water,eminem,47.0,0.618,0.439,81.986,0.805,0.483,303640.0,0.0,0.637,-10.212,0.238,0,Revival,2017.0,,,post_ai
+wasted time,keith urban,43.0,0.341,0.825,100.004,0.0621,0.625,233827.0,0.0,0.0753,-5.758,0.0481,1,Ripcord,2016.0,Gold,Capitol Records Nashville,post_ai
+we the people....,a tribe called quest,58.0,0.897,0.805,92.601,0.00909,0.71,172013.0,0.0,0.141,-5.471,0.0637,1,We got it from Here... Thank You 4 Your service,2016.0,,,post_ai
+weston road flows,drake,46.0,0.362,0.742,82.884,0.0763,0.623,253533.0,0.0,0.31,-6.963,0.296,1,Views,2016.0,,,post_ai
+what about us,p!nk,77.0,0.187,0.588,113.61699999999999,0.0285,0.489,269600.0,2.11e-06,0.0906,-6.177,0.0507,1,Beautiful Trauma,2017.0,1x Platinum,Rca Records,post_ai
+what do i know?,ed sheeran,73.0,0.895,0.492,115.092,0.251,0.838,237333.0,0.0,0.262,-5.69,0.038,0,÷ (Deluxe),2017.0,,,post_ai
+what lovers do,maroon 5,5.0,0.42499999999999993,0.608,110.025,0.0834,0.796,199853.0,3.54e-06,0.125,-5.124,0.0568,0,Red Pill Blues + (Deluxe),2017.0,2x Multi-Platinum,222 Records / Interscope,post_ai
+what makes you country,luke bryan,68.0,0.7970000000000002,0.949,159.985,0.0104,0.513,235266.0,0.0,0.154,-1.7229999999999999,0.0461,1,What Makes You Country,2017.0,,,post_ai
+what would meek do?,pusha t,59.0,0.0636,0.636,83.071,0.0064,0.678,153267.0,8.38e-06,0.177,-3.155,0.0782,1,DAYTONA,2018.0,,,post_ai
+when we,tank,65.0,0.0741,0.324,117.863,0.165,0.635,309120.0,4.18e-06,0.108,-9.51,0.0769,0,SAVAGE,2017.0,1x Platinum,R&b Money / Atlantic Records,post_ai
+wherever i go,onerepublic,66.0,0.349,0.689,99.961,0.09149999999999998,0.552,169773.0,0.0,0.27,-6.444,0.0425,0,Oh My My (Deluxe),2016.0,,,post_ai
+white sand,migos,63.0,0.419,0.58,142.104,0.0317,0.833,202835.0,0.0,0.272,-7.57,0.0824,0,Culture II,2018.0,,,post_ai
+why you always hatin?,yg,64.0,0.38,0.336,92.995,0.0392,0.9259999999999999,196600.0,0.0,0.138,-9.326,0.594,0,Still Brazy (Deluxe),2016.0,,,post_ai
+wins & losses,meek mill,57.0,0.131,0.854,92.006,0.0948,0.683,189057.0,0.0,0.267,-3.915,0.196,1,Wins & Losses (Deluxe),2017.0,,,post_ai
+wish i knew you,the revivalists,70.0,0.722,0.716,101.05,0.13,0.651,274093.0,0.0616,0.125,-6.516,0.0258,0,Men Amongst Mountains,2016.0,1x Platinum,Razor & Tie,post_ai
+wishing,dj drama,46.0,0.523,0.659,110.044,0.0969,0.48,252480.0,0.0,0.15,-4.668,0.37,1,Quality Street Music 2,2016.0,Gold,Eone Music,post_ai
+with them,young thug,59.0,0.284,0.517,132.07,0.00218,0.926,197747.0,0.0,0.091,-6.794,0.184,1,Slime Season 3,2016.0,,,post_ai
+with you,drake,49.0,0.801,0.406,127.978,0.145,0.874,195053.0,0.000242,0.112,-10.025,0.266,1,Views,2016.0,1x Platinum,Cash Money / Young Money / Republic Records,post_ai
+"woman, amen",dierks bentley,68.0,0.391,0.8039999999999999,119.83800000000001,0.000837,0.484,179827.0,9.29e-06,0.17,-5.889,0.0912,1,The Mountain,2018.0,,,post_ai
+work,rihanna,76.0,0.524,0.533,91.496,0.0641,0.594,219320.0,0.0,0.0928,-6.222,0.0981,1,ANTI (Deluxe),2016.0,6x Multi-Platinum,"Westbury Road Entertainment, Llc  /  Roc Nation, Llc",post_ai
+wyclef jean,young thug,67.0,0.832,0.576,132.054,0.124,0.863,236293.0,0.0,0.143,-5.687,0.239,0,JEFFERY,2016.0,,,post_ai
+yah.,kendrick lamar,66.0,0.648,0.6999999999999998,69.986,0.576,0.67,160293.0,5.34e-06,0.226,-7.893,0.19600000000000004,1,DAMN.,2017.0,Gold,Tde / Aftermath / Interscope,post_ai
+you look good,lady antebellum,62.0,0.942,0.9109999999999999,152.043,0.0338,0.653,181000.0,0.000659,0.081,-4.635,0.0439,1,Heart Break,2017.0,,,post_ai
+you need to calm down,taylor swift,89.0,0.714,0.671,85.026,0.00929,0.771,171360.0,0.0,0.0637,-5.617,0.0553,1,Lover,2019.0,,,post_ai
+younger now,miley cyrus,63.0,0.328,0.873,121.918,0.00129,0.548,248773.0,4.55e-05,0.138,-4.881,0.0618,1,Younger Now,2017.0,,,post_ai
+yours if you want it,rascal flatts,35.0,0.40800000000000003,0.9030000000000001,113.01199999999999,0.0102,0.544,206827.0,0.0,0.10800000000000001,-3.151,0.053500000000000006,1,Back To Us (Deluxe Version),2017.0,Gold,Big Machine Records,post_ai

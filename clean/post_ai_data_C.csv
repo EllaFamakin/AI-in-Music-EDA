@@ -1,0 +1,2 @@
+ranking,song,band_singer,titletext,year,danceability,energy,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+1,Levitating,Dua Lipa,Levitating,2021,0.7020000000000001,0.8250000000000001,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064.0
